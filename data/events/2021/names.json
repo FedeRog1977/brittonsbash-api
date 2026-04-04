@@ -1,229 +1,281 @@
 [
   {
     "id": "E2021052",
+    "tags": ["general"],
     "prefix": "Cairngorms IV",
     "names": ["New Year, Same Chads"]
   },
   {
     "id": "E2021051",
+    "tags": ["general"],
     "names": ["Christmas 2021"]
   },
   {
     "id": "E2021050",
+    "tags": ["projects"],
     "names": ["To Live And Breathe Ben More"]
   },
   {
     "id": "E2021049",
+    "tags": ["roadies"],
     "names": ["Strathaven 20 - Five And Drive, Eleven and Ride"]
   },
   {
     "id": "E2021048",
+    "tags": ["projects"],
     "prefix": "The Final Two'er / Glencoe VIII",
     "names": ["Farewell, My Love...", "Papped Out."]
   },
   {
     "id": "E2021047",
+    "tags": ["miles"],
     "prefix": "Turning 30 II",
     "names": ["300 Miles Of Waterfoot"]
   },
   {
     "id": "E2021046",
+    "tags": ["projects"],
     "names": ["David Meikle Bin"]
   },
   {
     "id": "E2021045",
+    "tags": ["projects"],
     "names": ["Back On The Horse"]
   },
   {
     "id": "E2021044",
+    "tags": ["general"],
     "prefix": "Cairngorms III",
     "names": ["Four Chads, Three Bottles Of Whisky"]
   },
   {
     "id": "E2021043",
+    "tags": ["general"],
     "names": ["Neilston `Two'er' Pad"]
   },
   {
     "id": "E2021042",
+    "tags": ["general"],
     "names": ["St. Andrews Pit Stop"]
   },
   {
     "id": "E2021041",
+    "tags": ["general"],
     "names": ["Castle Farm"]
   },
   {
     "id": "E2021040",
+    "tags": ["roadies"],
     "names": ["Strathaven Stunners II"]
   },
   {
     "id": "E2021039",
+    "tags": ["general"],
     "names": ["Meikle Dripps"]
   },
   {
     "id": "E2021038",
+    "tags": ["projects"],
     "names": ["Beinn a' Ghlò"]
   },
   {
     "id": "E2021037",
+    "tags": ["projects"],
     "prefix": "Glencoe VII",
     "names": ["Give Me Mòr", "Ùrar"]
   },
   {
     "id": "E2021036",
+    "tags": ["general"],
     "names": ["Cnoc Linn Park Mhòr"]
   },
   {
     "id": "E2021035",
+    "tags": ["projects"],
     "names": ["SUMC Cobble"]
   },
   {
     "id": "E2021034",
+    "tags": ["general"],
     "names": ["Duncarnock"]
   },
   {
     "id": "E2021033",
+    "tags": ["projects"],
     "prefix": "Glencoe VI",
     "names": ["The Mountain Goat"]
   },
   {
     "id": "E2021032",
+    "tags": ["projects"],
     "names": ["1v1'ing Mark"]
   },
   {
     "id": "E2021031",
+    "tags": ["projects"],
     "names": ["Last Day Of Summer?"]
   },
   {
     "id": "E2021030",
+    "tags": ["projects"],
     "prefix": "Cairngorms II",
     "names": ["A Weekend on Dave"]
   },
   {
     "id": "E2021029",
+    "tags": ["general"],
     "names": ["Wilmslow"]
   },
   {
     "id": "E2021028",
+    "tags": ["projects"],
     "names": ["Beinn an Lochain"]
   },
   {
     "id": "E2021027",
+    "tags": ["roadies"],
     "names": ["Strathaven Stunners"]
   },
   {
     "id": "E2021026",
+    "tags": ["projects"],
     "prefix": "Dùran Dùran II",
     "names": ["I'm McLovin It"]
   },
   {
     "id": "E2021025",
+    "tags": ["projects"],
     "prefix": "Dùran Dùran",
     "names": ["Race Against The Thunderstorm"]
   },
   {
     "id": "E2021024",
+    "tags": ["projects"],
     "prefix": "Glencoe V",
     "names": ["The Rereturn - Unpause"]
   },
   {
     "id": "E2021023",
+    "tags": ["projects"],
     "prefix": "The Big Four-O",
     "names": ["Lindt Master Chocolatier"]
   },
   {
     "id": "E2021022",
+    "tags": ["projects"],
     "prefix": "Glencoe IV",
     "names": ["Skyfall - Pause"]
   },
   {
     "id": "E2021021",
+    "tags": ["projects"],
     "names": ["The Playground"]
   },
   {
     "id": "E2021020",
+    "tags": ["projects"],
     "names": ["Cruachan Ridge Walk"]
   },
   {
     "id": "E2021019",
+    "tags": ["projects"],
     "prefix": "Glencoe III",
     "names": ["Get Creased And Do Creise"]
   },
   {
     "id": "E2021018",
+    "tags": ["roadies"],
     "names": ["Fenwick + Wind Farm"]
   },
   {
     "id": "E2021017",
+    "tags": ["projects"],
     "prefix": "Turning 30",
     "names": ["Drams At The Readee"]
   },
   {
     "id": "E2021016",
+    "tags": ["projects"],
     "names": ["`Larich Five... Minus One Coz Done It"]
   },
   {
     "id": "E2021015",
+    "tags": ["projects"],
     "prefix": "Glencoe II",
     "names": ["Path To The Clachaig"]
   },
   {
     "id": "E2021014",
+    "tags": ["projects"],
     "names": ["Beinn Whore"]
   },
   {
     "id": "E2021013",
+    "tags": ["projects"],
     "names": ["Sgiath Chuil And Meall Glas"]
   },
   {
     "id": "E2021012",
+    "tags": ["general"],
     "names": ["Giffnock Village Happenings"]
   },
   {
     "id": "E2021011",
+    "tags": ["projects"],
     "names": ["Arrochar Four... Minus One Coz Train"]
   },
   {
     "id": "E2021010",
+    "tags": ["projects"],
     "prefix": "Lui III",
     "names": ["Redemption in Blood"]
   },
   {
     "id": "E2021009",
+    "tags": ["projects"],
     "prefix": "Glencoe",
     "names": ["Bidean nam Bail", "Bukkake Etive Beag"]
   },
   {
     "id": "E2021008",
+    "tags": ["projects"],
     "names": ["Ben Donich"]
   },
   {
     "id": "E2021007",
+    "tags": ["projects"],
     "prefix": "Lui II",
     "names": ["White-Out"]
   },
   {
     "id": "E2021006",
+    "tags": ["projects"],
     "prefix": "Lui",
     "names": ["Brown Pants"]
   },
   {
     "id": "E2021005",
+    "tags": ["projects"],
     "names": ["Ben More And Stob Binnein"]
   },
   {
     "id": "E2021004",
+    "tags": ["projects"],
     "names": ["The Brack And Cnoc Coinnich"]
   },
   {
     "id": "E2021003",
+    "tags": ["general"],
     "names": ["Southside Explorations"]
   },
   {
     "id": "E2021002",
+    "tags": ["general"],
     "names": ["Dissertation SoyPoses"]
   },
   {
     "id": "E2021001",
+    "tags": ["general"],
     "names": ["Mother's Day"]
   }
 ]

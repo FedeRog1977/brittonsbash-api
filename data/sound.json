@@ -9,9 +9,9 @@
           "Mixing turntables: Technics SL-1200MK7",
           "Digital CD/SD mixing turntables: Technics SL-DZ1200",
           "Mixer: Allen & Heath Xone:92",
-          "CD player: Audiolab 8000CD",
-          "FM radio: Audiolab 8000T",
-          "Pre-amplifier: Audiolab 8000A",
+          "CD transport and DAC (player): Audiolab 8000CD",
+          "Tuner: Audiolab 8000T",
+          "Pre-/integrated amplifier: Audiolab 8000A",
           "Power amplifier: Audiolab 8300XP",
           "Power amplifier monoblocks (1 per speaker stack): Audiolab 8300MB",
           "Tweeters (High-Range): NONE!",
@@ -167,6 +167,7 @@
   {
     "title": "Sites",
     "content": [
+      { "title": "Hi-Fi Wiki", "href": "https://hifi-wiki.com" },
       { "title": "Richer Sounds", "href": "https://www.richersounds.com/" },
       { "title": "Audio Affair", "href": "https://www.audioaffair.co.uk/" },
       {

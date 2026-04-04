@@ -4,13 +4,17 @@
     "content": [
       "Wüsthof",
       "Zwilling",
-      "Le Creuset",
-      "Staub",
-      "All-Clad",
+      "Staub (Zwilling)",
       "WMF",
-      "Microplane",
-      "Sant' Andrea",
+      "Le Creuset",
+      "All-Clad",
+      "Alessi",
       "Villeroy & Boch",
+      "Bialetti",
+      "Oneida",
+      "Sant' Andrea",
+      "Robert Welch",
+      "Microplane",
       "Dartington Crystal",
       "Wedgewood",
       "Waterford",
@@ -21,8 +25,7 @@
       "Lock'n'Lock",
       "Pyrex",
       "Vogue",
-      "Rubbermaid",
-      "Bialetti"
+      "Rubbermaid"
     ]
   },
   {
@@ -397,6 +400,10 @@
   {
     "title": "Sites",
     "content": [
+      {
+        "title": "Cutlery Search",
+        "href": "https://www.cutlerysearch.com/santandrea.htm"
+      },
       { "title": "Luke's Recipe Site", "href": "https://based.cooking" },
       {
         "title": "Pizza Dough Calculator",

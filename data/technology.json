@@ -503,6 +503,10 @@
         "title": "Database and API Service",
         "content": [
           {
+            "title": "SQLite",
+            "href": "https://sqlite.org/"
+          },
+          {
             "title": "MongoDB Atlas Cloud",
             "href": "https://account.mongodb.com/account/login?n=https%3A%2F%2Fcloud.mongodb.com%2Fv2%2F67af6ee76caef751e5ab38ee&nextHash=%23metrics%2FreplicaSet%2F67af87e60353e200e1d77033%2Fexplorer%2Fscotlands-mountains%2Fmunros%2Ffind&signedOut=true"
           },
@@ -831,6 +835,28 @@
           {
             "title": "IBM Model M Full Review",
             "href": "https://www.youtube.com/watch?v=r5H58uudo1Y"
+          }
+        ]
+      },
+
+      {
+        "title": "Classic Sites",
+        "content": [
+          {
+            "title": "Website-Tutorial.net",
+            "href": "https://www.website-tutorial.net/css/csscursorstyles.php"
+          },
+          {
+            "title": "Old BBC News Article",
+            "href": "http://news.bbc.co.uk/1/hi/sci/tech/6411991.stm"
+          },
+          {
+            "title": "EclipseWise",
+            "href": "https://www.eclipsewise.com/lunar/LEsaros/LEsaroscat.html"
+          },
+          {
+            "title": "Lunar Eclipse",
+            "href": "https://strangepaths.com/total-lunar-eclipse/en/"
           }
         ]
       },

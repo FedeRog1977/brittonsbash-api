@@ -173,5 +173,5 @@ rsync -vrP --delete-after /Users/digital/example/ root@lewisbritton.com:/var/www
 For example:
 
 ```sh
-rsync -vrP --delete-after /Users/digital/brittonsbash-content/ root@lewisbritton.com:/var/www/lewisbritton
+rsync -vrP --delete-after /Users/digital/brittonsbash-api/ root@lewisbritton.com:/var/www/lewisbritton
 ```

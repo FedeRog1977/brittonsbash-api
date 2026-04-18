@@ -36,6 +36,10 @@
       {
         "title": "Self-Assessment Tax",
         "href": "https://www.gov.uk/log-in-file-self-assessment-tax-return"
+      },
+      {
+        "title": "Numerical Optimization",
+        "href": "https://lendek.net/teaching/OPT/numerical%20optimization.pdf"
       }
     ]
   },
@@ -83,6 +87,43 @@
   {
     "title": "Physics",
     "content": [
+      {
+        "title": "Topics",
+        "content": [
+          {
+            "title": "Energy",
+            "content": "Energy stores (kinetic, potential, chemical, nuclear), transfers (heating, mechanical, electrical), conservation of energy, power, and efficiency"
+          },
+          {
+            "title": "Forces",
+            "content": "Motion (velocity/acceleration), Newton's Laws, gravity, friction, pressure, and moments"
+          },
+          {
+            "title": "Electricity",
+            "content": "Circuits (series/parallel), current, potential difference, resistance, mains electricity, and static"
+          },
+          {
+            "title": "Particle Model of Matter",
+            "content": "Density, states of matter, internal energy, specific heat capacity, and gas pressure"
+          },
+          {
+            "title": "Atomic Structure",
+            "content": "Atoms, isotopes, ions, radioactive decay, nuclear fission, and fusion"
+          },
+          {
+            "title": "Waves",
+            "content": "Wave properties (frequency, amplitude, speed), light, electromagnetic spectrum, optics, and sound"
+          },
+          {
+            "title": "Magnetism and Electromagnetism",
+            "content": "Magnetic fields, solenoids, motor effect, and electromagnetic induction"
+          },
+          {
+            "title": "Space Physics",
+            "content": "Lifecycle of stars, solar systems, orbits, red-shift, and the expansion of the universe"
+          }
+        ]
+      },
       {
         "title": "Time Periods",
         "href": "https://en.wikipedia.org/wiki/List_of_time_periods"

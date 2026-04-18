@@ -5,6 +5,7 @@
       "Artix Linux",
       "Arch Linux",
       "Manjaro Linux",
+      "Omarchy Linux",
       "macOS Versions",
       "Windows XP",
       "Windows 7",
@@ -883,6 +884,10 @@
           },
           { "title": "Know Your Meme", "href": "https://knowyourmeme.com/" },
           { "title": "Wojak Land", "href": "https://wojakland.com/" },
+          {
+            "title": "Wojak GIF Board",
+            "href": "https://7tv.app/emotes?q=wojak%5D"
+          },
           {
             "title": "RFC Editor",
             "href": "https://www.rfc-editor.org/rfc/rfc2324"

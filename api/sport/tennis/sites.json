@@ -1,4 +1,14 @@
 [
+  { "title": "ATP Tour", "href": "https://www.atptour.com/en/" },
+  {
+    "title": "ATP Tour Head2Head",
+    "href": "https://www.atptour.com/en/players/atp-head-2-head"
+  },
+  {
+    "title": "Tennis 24",
+    "href": "https://www.tennis24.com/atp-singles/australian-open-2007/draw/#/xbsNWdui/draw/"
+  },
+  { "title": "Tennis Companion", "href": "https://tenniscompanion.org/" },
   {
     "title": "Federer Fan",
     "href": "https://federerfan07.com/2015/05/20/roger-federer-roland-garros-2015-nike-outfit"

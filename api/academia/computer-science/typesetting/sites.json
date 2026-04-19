@@ -1,0 +1,133 @@
+[
+  { "title": "LaTeX.org", "href": "https://latex.org/forum/" },
+  {
+    "title": "LaTeX Project",
+    "href": "https://www.latex-project.org/"
+  },
+  {
+    "title": "LaTeX Document Classes",
+    "href": "https://tex.stackexchange.com/questions/782/what-are-the-available-documentclass-types-and-their-uses"
+  },
+  {
+    "title": "LaTeX Page Setup",
+    "href": "https://www.overleaf.com/learn/latex/Page_size_and_margins"
+  },
+  {
+    "title": "LaTeX Font Catalogue",
+    "href": "https://tug.org/FontCatalogue/"
+  },
+  {
+    "title": "LaTeX List Guide",
+    "href": "https://tug.org/TUGboat/tb36-3/tb114thurnherr.pdf"
+  },
+  {
+    "title": "LaTeX Symbol Guide",
+    "href": "https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf"
+  },
+  {
+    "title": "LaTeX Symbol Guide",
+    "href": "https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf"
+  },
+  {
+    "title": "LaTeX Symbol Guide",
+    "href": "https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf"
+  },
+  {
+    "title": "LaTeX Symbol Guide",
+    "href": "https://latex-programming.fandom.com/wiki/List_of_LaTeX_symbols"
+  },
+  {
+    "title": "LaTeX Arrows",
+    "href": "https://www.sascha-frank.com/Arrow/latex-arrows.html"
+  },
+  {
+    "title": "LaTeX Default Font Sizes",
+    "href": "https://www.sascha-frank.com/latex-font-size.html"
+  },
+  {
+    "title": "LaTeX Parentheses",
+    "href": "https://www.overleaf.com/learn/latex/Brackets_and_Parentheses"
+  },
+  {
+    "title": "LaTeX Math Basics",
+    "href": "https://www.andy-roberts.net/res/latex/textineqn.pdf"
+  },
+  {
+    "title": "LaTeX Equation Shortcut",
+    "href": "https://latexeditor.lagrida.com/"
+  },
+  {
+    "title": "LaTeX Screenplay Template",
+    "href": "https://www.overleaf.com/latex/templates/screenplay-template/grqmtrnytdhj"
+  },
+  {
+    "title": "LaTeX Pronunciation",
+    "href": "https://tex.stackexchange.com/questions/17502/what-is-the-correct-pronunciation-of-tex-and-latex"
+  },
+  { "title": "LaTeX TikZ Package", "href": "https://tikz.net/" },
+  {
+    "title": "LaTeX TikZ Package Examples",
+    "href": "https://texample.net/tikz/examples/"
+  },
+  {
+    "title": "LaTeX TikZ Game Trees",
+    "href": "http://www.sfu.ca/~haiyunc/notes/Game_Trees_with_TikZ.pdf"
+  },
+  {
+    "title": "LaTeX TikZ UML Diagrams",
+    "href": "https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf"
+  },
+  {
+    "title": "LaTeX Dirtree Package Examples",
+    "href": "http://tug.ctan.org/macros/generic/dirtree/dirtree.pdf"
+  },
+  {
+    "title": "LaTeX FontAwesome Package",
+    "href": "http://mirrors.ibiblio.org/CTAN/fonts/fontawesome/doc/fontawesome.pdf"
+  },
+  {
+    "title": "LaTex Alternative Guide",
+    "href": "https://latex.silmaril.ie/formattinginformation/quotes.html"
+  },
+  {
+    "title": "Markdown Guide",
+    "href": "https://www.markdownguide.org/"
+  },
+  {
+    "title": "Daring Fireball Markdown Guide (Go-to)",
+    "href": "https://daringfireball.net/projects/markdown/syntax#autolink"
+  },
+  {
+    "title": "Markdown Calendar Converter",
+    "href": "https://mdcal.io/"
+  },
+  {
+    "title": "Markdown Live Preview",
+    "href": "https://markdownlivepreview.com/"
+  },
+  {
+    "title": "Code Blocks in Markdown",
+    "href": "https://docs.readme.com/rdmd/docs/code-blocks"
+  },
+  {
+    "title": "GNU Troff Guide",
+    "href": "https://www.gnu.org/software/groff/manual/groff.html#Paragraphs"
+  },
+  { "title": "Pandoc Guide", "href": "https://pandoc.org/MANUAL.html" },
+  {
+    "title": "Beamer Guide",
+    "href": "https://ctan.org/pkg/beamer?lang=en"
+  },
+  {
+    "title": "Letter Casing",
+    "href": "https://danielmiessler.com/blog/a-list-of-different-case-types/"
+  },
+  {
+    "title": "Letter Casing",
+    "href": "https://www.imediacto.com/blog/list-of-letter-case-types-in-programming/"
+  },
+  {
+    "title": "MacTeX",
+    "href": "https://www.tug.org/mactex/mactex-download.html"
+  }
+]

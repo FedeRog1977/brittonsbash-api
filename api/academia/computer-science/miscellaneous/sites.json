@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Web Design Museum",
+    "href": "https://www.webdesignmuseum.org/gallery/year-2007"
+  },
+  { "title": "TTSMP3", "href": "https://ttsmp3.com/" },
+  { "title": "Textreader Pro", "href": "https://textreader.pro/" },
+  {
+    "title": "Meme Generator",
+    "href": "https://imgflip.com/memegenerator"
+  },
+  {
+    "title": "GIF Generator",
+    "href": "https://www.3dgifmaker.com/360Spin"
+  },
+  {
+    "title": "GIFuffle",
+    "href": "http://www-staging.gifuffle.com.s3-website-us-east-1.amazonaws.com/"
+  },
+  { "title": "Know Your Meme", "href": "https://knowyourmeme.com/" },
+  { "title": "Wojak Land", "href": "https://wojakland.com/" },
+  {
+    "title": "Wojak GIF Board",
+    "href": "https://7tv.app/emotes?q=wojak%5D"
+  },
+  {
+    "title": "RFC Editor",
+    "href": "https://www.rfc-editor.org/rfc/rfc2324"
+  },
+  { "title": "Vim Adventures", "href": "https://vim-adventures.com/" },
+  {
+    "title": "BlackBerry Bold Touch 9900",
+    "href": "https://www.gsmarena.com/blackberry_bold_touch_9900-3116.php"
+  },
+  { "title": "Kid Pix", "href": "https://kidpix.app/" },
+  {
+    "title": "Awesome 2007 Style Website (Bernie Smith from Take That)",
+    "href": "https://www.berniesmithpiano.com/about-me"
+  }
+]

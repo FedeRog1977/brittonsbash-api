@@ -1,0 +1,185 @@
+[
+  {
+    "title": "MDN Web Docs",
+    "href": "https://developer.mozilla.org/en-US/"
+  },
+  { "title": "StackExchange", "href": "https://stackexchange.com/" },
+  { "title": "Stack Overflow", "href": "https://stackoverflow.com/" },
+  { "title": "w3schools", "href": "https://www.w3schools.com/" },
+  { "title": "Wayback Machine", "href": "https://archive.org/web/" },
+  { "title": "Regexper", "href": "https://regexper.com/" },
+  {
+    "title": "Identifont",
+    "href": "http://www.identifont.com/year?2007"
+  },
+  {
+    "title": "Old School Fonts",
+    "href": "https://int10h.org/oldschool-pc-fonts/fontlist/?2#att"
+  },
+  {
+    "title": "JSON Forms",
+    "href": "https://jsonforms.io/"
+  },
+  { "title": "JSONata", "href": "https://jsonata.org/" },
+  {
+    "title": "HTML Special Characters",
+    "href": "https://www.compart.com/"
+  },
+  {
+    "title": "HTML Special Characters",
+    "href": "https://www.tbi.univie.ac.at/~studla/html-spec_9.html"
+  },
+  {
+    "title": "HTML Special Characters",
+    "href": "https://www.w3schools.com/html/html_symbols.asp"
+  },
+  {
+    "title": "HTML Math Operators",
+    "href": "https://www.w3schools.com/charsets/ref_utf_math.asp"
+  },
+  {
+    "title": "HTML Color Converter",
+    "href": "https://www.w3schools.com/colors/colors_converter.asp"
+  },
+  {
+    "title": "HTML Two-Column Layout",
+    "href": "https://www.w3schools.com/howto/howto_css_two_columns.asp"
+  },
+  {
+    "title": "HTML Tag Stripper",
+    "href": "https://www.striphtml.com/"
+  },
+  {
+    "title": "npm amphtml-validator",
+    "href": "https://www.npmjs.com/package/amphtml-validator"
+  },
+  {
+    "title": "CSS Cursor Properties",
+    "href": "https://www.w3schools.com/cssref/pr_class_cursor.php"
+  },
+  { "title": "CSS Tricks", "href": "https://css-tricks.com/" },
+  {
+    "title": "CSS Tricks Grid",
+    "href": "https://css-tricks.com/snippets/css/complete-guide-grid/"
+  },
+  {
+    "title": "JavaScript Date Formatting",
+    "href": "https://www.freecodecamp.org/news/how-to-format-dates-in-javascript/"
+  },
+  { "title": "JSON Formatter", "href": "https://jsonformatter.org/" },
+  {
+    "title": "JSON Command Line Validator",
+    "href": "https://www.xmodulo.com/validate-json-command-line-linux.html"
+  },
+  { "title": "JSON web tokens", "href": "https://www.jwt.io/" },
+  {
+    "title": "toGeoJSON",
+    "href": "https://mapbox.github.io/togeojson/"
+  },
+  {
+    "title": "TypeScript.org",
+    "href": "https://www.typescriptlang.org/"
+  },
+  { "title": "npmjs", "href": "https://www.npmjs.com/" },
+  {
+    "title": "React useForm",
+    "href": "https://react-hook-form.com/docs/useform"
+  },
+  {
+    "title": "Vercel Deploy",
+    "href": "https://vercel.com/federog1977s-projects"
+  },
+  { "title": "PM2", "href": "https://pm2.keymetrics.io/" },
+  {
+    "title": "Deploy Next.js App To Ubuntu with PM2",
+    "href": "https://fazalerabbi.medium.com/deploying-a-next-js-application-with-pm2-nginx-and-ssl-on-a-digitalocean-droplet-d75c5b811e0d"
+  },
+  {
+    "title": "Deploy Next.js App To Ubuntu with PM2",
+    "href": "https://www.youtube.com/watch?v=mFOFR5YfZzA"
+  },
+  {
+    "title": "Shadcn UI",
+    "href": "https://ui.shadcn.com/docs/components"
+  },
+  {
+    "title": "Underscore.js (Billy)",
+    "href": "https://underscorejs.org/"
+  },
+  {
+    "title": "Coffeescript (Billy)",
+    "href": "https://coffeescript.org/"
+  },
+  {
+    "title": "Luke Guide 1",
+    "href": "https://www.youtube.com/watch?v=OWAqilIVNgE"
+  },
+  {
+    "title": "Luke Guide 2",
+    "href": "https://www.youtube.com/watch?v=3dIVesHEAzc&t=1s"
+  },
+  {
+    "title": "Express.js Guide",
+    "href": "https://www.youtube.com/watch?v=fgTGADljAeg"
+  },
+  {
+    "title": "Express.js Routing",
+    "href": "https://expressjs.com/en/guide/routing.html"
+  },
+  {
+    "title": "Express.js Swagger UI Express",
+    "href": "https://www.npmjs.com/package/swagger-ui-express"
+  },
+  {
+    "title": "Express.js Swagger Guide 1",
+    "href": "https://dev.to/desmondsanctity/documenting-nodejs-api-using-swagger-4klp#:~:text=Adding%20Swagger%20UI%20and%20Configurations&text=There%20are%20two%20ways%20we,to%20generate%20the%20documentation%20automatically."
+  },
+  {
+    "title": "Express.js Swagger Guide 2",
+    "href": "https://github.com/scottie1984/swagger-ui-express"
+  },
+  {
+    "title": "Express.js Swagger Guide 3",
+    "href": "https://medium.com/@sagiweizmann/express-to-impress-documenting-apis-with-swagger-3744e95c1870"
+  },
+  {
+    "title": "Express.js Integration Testing",
+    "href": "https://dev.to/ali_adeku/guide-to-writing-integration-tests-in-express-js-with-jest-and-supertest-1059"
+  },
+  {
+    "title": "Swagger Guide",
+    "href": "https://swagger.io/docs/specification/v3_0/api-host-and-base-path/"
+  },
+  {
+    "title": "Node.js API Guide 1",
+    "href": "https://www.youtube.com/watch?v=_1xa8Bsho6A&t=248s"
+  },
+  {
+    "title": "Node.js API Guide 2",
+    "href": "https://www.youtube.com/watch?v=i8xHOrPP3NA&list=PLApHoB0FdJ1c20zCUmRfKzuZrZTjxdehi"
+  },
+  {
+    "title": "Next.js ESLint Guide",
+    "href": "https://nextjs.org/docs/app/api-reference/config/eslint#migrating-existing-config"
+  },
+  {
+    "title": "Next.js MDX Guide 1",
+    "href": "https://nextjs.org/docs/pages/guides/mdx"
+  },
+  {
+    "title": "Next.js MDX Guide 2",
+    "href": "https://www.youtube.com/watch?v=34bRv6cQezo"
+  },
+  {
+    "title": "Next.js MDX Syntax Highlighting",
+    "href": "https://gaudion.dev/blog/mdx-syntax-highlighting"
+  },
+  {
+    "title": "Next.js Rehype",
+    "href": "https://github.com/rehypejs/rehype-highlight"
+  },
+  {
+    "title": "Next.js Highlight.js",
+    "href": "https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md"
+  }
+]

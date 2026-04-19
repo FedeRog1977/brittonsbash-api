@@ -1,0 +1,69 @@
+[
+  { "title": "explainshell.com", "href": "https://explainshell.com/" },
+  {
+    "title": "DotShare.it",
+    "href": "http://dotshare.it/category/wms/i3/sort/likes/"
+  },
+  {
+    "title": "zsh Guide",
+    "href": "https://zsh.sourceforge.io/Doc/Release/Prompt-Expansion.html"
+  },
+  {
+    "title": "PS1 Guide",
+    "href": "https://ss64.com/osx/syntax-prompt.html"
+  },
+  {
+    "title": "Date and Time Formatting",
+    "href": "https://www.gnu.org/software/pspp/manual/html_node/Time-and-Date-Formats.html"
+  },
+  { "title": "Vim", "href": "https://www.vim.org/" },
+  {
+    "title": "vimrc Guide",
+    "href": "https://www.shortcutfoo.com/blog/top-50-vim-configuration-options"
+  },
+  {
+    "title": "mutt Guide",
+    "href": "https://www.thegeekdiary.com/how-to-install-and-configure-mutt-in-centos-rhel/"
+  },
+  {
+    "title": "xrandr Guide",
+    "href": "https://wiki.archlinux.org/title/xrandr"
+  },
+  {
+    "title": "man xrandr",
+    "href": "https://www.x.org/releases/X11R7.5/doc/man/man1/xrandr.1.html"
+  },
+  {
+    "title": "xrandr Notes",
+    "href": "https://askubuntu.com/questions/1110171/multi-monitor-setup-with-xrandr"
+  },
+  {
+    "title": "polybar-spotify",
+    "href": "https://github.com/PrayagS/polybar-spotify"
+  },
+  {
+    "title": "dunst Notifications",
+    "href": "https://www.youtube.com/watch?v=XWlbaERuDP4"
+  },
+  {
+    "title": "mop Stock Ticker Guide",
+    "href": "https://robservatory.com/go-old-school-terminal-for-stock-quotes/"
+  },
+  {
+    "title": "Another Ticker",
+    "href": "https://github.com/achannarasappa/ticker"
+  },
+  { "title": "Semantic Versioning", "href": "https://semver.org/" },
+  {
+    "title": "nerdfonts",
+    "href": "https://www.nerdfonts.com/cheat-sheet"
+  },
+  {
+    "title": "Create Pacman Shortcut",
+    "href": "https://www.geeksforgeeks.org/how-to-install-postman-on-arch-based-linux-distributionsmanjaro/"
+  },
+  {
+    "title": "Colima (Docker emulator in Linux server)",
+    "href": "https://github.com/abiosoft/colima/blob/main/README.md"
+  }
+]

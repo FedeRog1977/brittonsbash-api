@@ -1,0 +1,43 @@
+[
+  { "title": "Spring Initializr", "href": "https://start.spring.io/" },
+  {
+    "title": "Build Springboot Application",
+    "href": "https://spring.io/guides/gs/spring-boot"
+  },
+  {
+    "title": "Connect Springboot Application to MongoDB Atlas",
+    "href": "https://www.mongodb.com/resources/products/compatibilities/spring-boot"
+  },
+  {
+    "title": "Tutorial (1)",
+    "href": "https://www.youtube.com/watch?v=rm9_h2nIJD8"
+  },
+  {
+    "title": "Tutorial (2)",
+    "href": "https://www.youtube.com/watch?v=gDHSLKmG8ZQ"
+  },
+  {
+    "title": "VSCode Java Formatting and Linting",
+    "href": "https://code.visualstudio.com/docs/java/java-linting"
+  },
+  {
+    "title": "OpenWeather",
+    "href": "https://home.openweathermap.org/subscriptions"
+  },
+  {
+    "title": "OS Maps API",
+    "href": "https://osdatahub.os.uk/docs/wmts/technicalSpecification"
+  },
+  {
+    "title": "OS Maps API Overview",
+    "href": "https://osdatahub.os.uk/docs/wmts/overview"
+  },
+  {
+    "title": "OS Maps API Project",
+    "href": "https://osdatahub.os.uk/projects/Burning_Roots"
+  },
+  {
+    "title": "OpenStreetMap Map Features",
+    "href": "https://en.wikipedia.org/wiki/Help:IPA/English"
+  }
+]

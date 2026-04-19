@@ -1,0 +1,28 @@
+[
+  { "title": "Luke Smith", "href": "https://lukesmith.xyz/" },
+  {
+    "title": "Donald E. Knuth",
+    "href": "https://www-cs-faculty.stanford.edu/~knuth/"
+  },
+  { "title": "Bram Moolenaar", "href": "https://www.moolenaar.net/" },
+  {
+    "title": "Pete Williams",
+    "href": "https://www.petewritescode.com/"
+  },
+  {
+    "title": "PeteWritesCode",
+    "href": "https://github.com/petewritescode"
+  },
+  {
+    "title": "Calum Leask",
+    "href": "https://calumleask.co.uk/portfolio/"
+  },
+  {
+    "title": "Billy Moon - Sand Bells Chess Club",
+    "href": "https://www.sandybells.club/"
+  },
+  {
+    "title": "Grant Macgregor",
+    "href": "https://grantmacgregor.co.uk/about.html"
+  }
+]

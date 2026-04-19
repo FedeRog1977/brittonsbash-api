@@ -1,0 +1,34 @@
+[
+  {
+    "title": "SQLite",
+    "href": "https://sqlite.org/"
+  },
+  {
+    "title": "MongoDB Atlas Cloud",
+    "href": "https://account.mongodb.com/account/login?n=https%3A%2F%2Fcloud.mongodb.com%2Fv2%2F67af6ee76caef751e5ab38ee&nextHash=%23metrics%2FreplicaSet%2F67af87e60353e200e1d77033%2Fexplorer%2Fscotlands-mountains%2Fmunros%2Ffind&signedOut=true"
+  },
+  {
+    "title": "Install and Run `mongosh`",
+    "href": "https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/"
+  },
+  {
+    "title": "Connect `mongosh` to MongoDB Atlas",
+    "href": "https://www.mongodb.com/docs/mongodb-shell/connect/"
+  },
+  {
+    "title": "Redis Cloud Config",
+    "href": "https://cloud.redis.io/?utm_source=google&utm_medium=organic&utm_campaign=search&utm_term=not%20specified&utm_content=not%20specified#/add-subscription/free"
+  },
+  {
+    "title": "Redis Docs",
+    "href": "https://docs.nestjs.com/microservices/redis"
+  },
+  {
+    "title": "Redis Tutorial",
+    "href": "https://www.youtube.com/watch?v=UbtNnHFXK9E&list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P&index=9"
+  },
+  {
+    "title": "Redis Tutorial",
+    "href": "https://www.youtube.com/watch?v=JFM-o-csWLs&list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P&index=10"
+  }
+]

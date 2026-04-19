@@ -396,38 +396,5 @@
         ]
       }
     ]
-  },
-  {
-    "title": "Sites",
-    "content": [
-      {
-        "title": "Cutlery Search",
-        "href": "https://www.cutlerysearch.com/santandrea.htm"
-      },
-      { "title": "Luke's Recipe Site", "href": "https://based.cooking" },
-      {
-        "title": "Pizza Dough Calculator",
-        "href": "https://www.stadlermade.com/pizza-calculator/"
-      },
-      { "title": "Garage Bar", "href": "https://www.garage-bar.co.uk/" },
-      { "title": "Beer Merchants", "href": "https://www.beermerchants.com/" },
-      {
-        "title": "Beers of Europe",
-        "href": "https://www.beersofeurope.co.uk/"
-      },
-      { "title": "Winevybe", "href": "https://winevybe.com/beer/wheat-beer/" },
-      {
-        "title": "The Belgian Beer Company",
-        "href": "https://www.thebelgianbeercompany.com/"
-      },
-      { "title": "Majestic Wine", "href": "https://www.majestic.co.uk/" },
-      { "title": "Master of Malt", "href": "https://www.masterofmalt.com/" },
-      { "title": "Dolce Cilento", "href": "https://www.dolcecilento.com/" },
-      {
-        "title": "Packing Containers",
-        "href": "https://www.enviropack.org.uk/"
-      },
-      { "title": "MaxiCoffee", "href": "https://www.maxicoffee.com/en-gb/" }
-    ]
   }
 ]

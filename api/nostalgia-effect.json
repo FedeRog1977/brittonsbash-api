@@ -3,22 +3,6 @@
     "title": "Applied Factors",
     "content": [
       {
-        "title": "Asia",
-        "content": [
-          "Source: Just Cause 2, Wayne's World",
-          "Aesthetics: Cyberpunk, Neo-Tokyo",
-          "Associations:"
-        ]
-      },
-      {
-        "title": "Industrial",
-        "content": [
-          "Source: Grand Theft Auto IV, Saturday trips to the industrial district with PMB",
-          "Aesthetics: Y2K various, 7HD",
-          "Associations: Saturday mornings, sunshine, egg sandwiches"
-        ]
-      },
-      {
         "title": "2000's Sport",
         "content": [
           "Source: Wii Sports, Wii Sports Resort, Wii Play, Roger Federer, Mearns Castle Golf Academy, primary school birthday parties, Kixx",
@@ -82,27 +66,6 @@
           "Associations:"
         ]
       }
-    ]
-  },
-  {
-    "title": "Additional Factors",
-    "content": [
-      {
-        "title": "Sources",
-        "content": [
-          "Billards Java game for Motorola",
-          "Golf Java game for Motorola",
-          "E4 Summer Daytime advert 2014",
-          "John F. Kennedy Stadium, Philadelphia",
-          "Cloud City from Star Wars Battlefront (2004)",
-          "HUGO BOSS Boss Bottled Eau de Toilette",
-          "Body Shop Maca Root for Skin Shave Cream",
-          "L'Oréal Paris Men Expert Hydra Energetic Ice Cool Effect Post-Shave Gel",
-          "Fairy Platinum Washing Up Liquid",
-          "(Free-)Flow State"
-        ]
-      },
-      { "title": "Associations", "content": [] }
     ]
   }
 ]

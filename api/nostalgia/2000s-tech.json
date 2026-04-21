@@ -1,1 +1,19 @@
-{ "sources": [], "aesthetics": [], "associations": [] }
+{
+  "sources": [
+    "First phone (Motorola Razr)",
+    "Telephone games",
+    "Dundas & Wilson office",
+    "Drive with Dave",
+    "Need For Speed: Underground 2",
+    "Miami Vice (PS2)",
+    "2000's cinema"
+  ],
+  "aesthetics": ["Chromecore", "Dorphic", "Frutiger Aero"],
+  "associations": [
+    "Sony Ericsson",
+    "Motorola",
+    "Cingular Wireless",
+    "AT&T",
+    "Telecoms logo from Need for Speed: Underground 2"
+  ]
+}

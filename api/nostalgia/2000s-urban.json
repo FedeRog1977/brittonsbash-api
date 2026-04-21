@@ -1,1 +1,11 @@
-{ "sources": [], "aesthetics": [], "associations": [] }
+{
+  "sources": [
+    "Need For Speed: Most Wanted",
+    "Need For Speed: Pro Street",
+    "Burnout: Paradise",
+    "Skate 3",
+    "Saint's Row 2"
+  ],
+  "aesthetics": ["Urbancore"],
+  "associations": ["CK One"]
+}

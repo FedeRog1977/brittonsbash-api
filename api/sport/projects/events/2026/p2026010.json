@@ -1,9 +1,9 @@
 {
   "id": "P2026010",
-  "name": "",
+  "name": "Highway Threeto",
   "distance": 12.16,
   "elevation": 5630,
   "time": "5:22:49",
-  "companionship": 1,
+  "companionship": 0,
   "munros": ["Beinn Liath Mhòr", "Sgòrr Ruadh"]
 }

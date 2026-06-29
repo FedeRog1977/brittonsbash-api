@@ -1,5 +1,39 @@
 [
   {
+    "id": "E2026012",
+    "tags": ["projects"],
+    "names": ["Brothers In Arms"]
+  },
+  {
+    "id": "E2026011",
+    "tags": ["sleazyJetting"],
+    "prefix": "Twenty-Fourth Different Kind Hol-e-day",
+    "names": ["Sprint Finish"]
+  },
+  {
+    "id": "E2026010",
+    "tags": ["projects"],
+    "prefix": "Cairngorms XXIII",
+    "names": ["Miss Mitchell (Hot Teacher)"]
+  },
+  {
+    "id": "E2026009",
+    "tags": ["projects"],
+    "prefix": "Torridon II",
+    "names": ["Going Ballistic", "Morrissey", "Highway Threeto"]
+  },
+  {
+    "id": "E2026008",
+    "tags": ["projects"],
+    "names": ["Long Wheelbase"]
+  },
+  {
+    "id": "E2026007",
+    "tags": ["projects"],
+    "prefix": "Glencoe XV",
+    "names": ["You're Hot Then You're Cold"]
+  },
+  {
     "id": "E2026006",
     "tags": ["projects"],
     "names": ["Insomnia"]

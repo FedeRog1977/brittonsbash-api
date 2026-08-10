@@ -1,6 +1,6 @@
-[
-  "Studio Monitor Speakers: Yamaha HS7",
-  "Multimedia Speakers: Bose Companion 50",
-  "Speaker Stands: Bose UFS-20 Series II Universal Floor Stands",
-  "Multimedia Subwoofer: Bose Companion 50"
-]
+{
+  "studioMonitorSpeakers": ["Yamaha HS7"],
+  "multimediaSpeakers": ["Bose Companion 50"],
+  "speakerStands": ["Bose UFS-20 Series II Universal Floor Stands"],
+  "multimediaSubwoofers": ["Bose Companion 50"]
+}

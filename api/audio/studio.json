@@ -1,1 +1,1 @@
-["Dynamic microphone: Neumann TLM-103", "Dynamic microphone: Shure SM7B"]
+{ "dynamicMicrophones": ["Neumann TLM-103", "Shure SM7B"] }

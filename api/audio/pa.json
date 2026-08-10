@@ -1,7 +1,6 @@
-[
-  "DJ Controller (All-In-One): Pioneer DJ XDJ-RX3",
-  "Stage microphone: Sennheiser EW-DX MKE 2/835-S",
-  "Stage microphone: Shure BLX288UK/B58",
-  "In-ear monitors: Shure SE215",
-  "In-ear monitoring system: Sennheiser XSW IEM Set A-Band"
-]
+{
+  "djControllers": ["Pioneer DJ XDJ-RX3"],
+  "stageMicrophones": ["Sennheiser EW-DX MKE 2/835-S", "Shure BLX288UK/B58"],
+  "inEarMonitors": ["Shure SE215"],
+  "inEarMonitoringSystems": ["Sennheiser XSW IEM Set A-Band"]
+}

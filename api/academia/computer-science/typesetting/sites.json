@@ -17,22 +17,6 @@
     "href": "https://tug.org/FontCatalogue/"
   },
   {
-    "title": "LaTeX List Guide",
-    "href": "https://tug.org/TUGboat/tb36-3/tb114thurnherr.pdf"
-  },
-  {
-    "title": "LaTeX Symbol Guide",
-    "href": "https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf"
-  },
-  {
-    "title": "LaTeX Symbol Guide",
-    "href": "https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf"
-  },
-  {
-    "title": "LaTeX Symbol Guide",
-    "href": "https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf"
-  },
-  {
     "title": "LaTeX Symbol Guide",
     "href": "https://latex-programming.fandom.com/wiki/List_of_LaTeX_symbols"
   },
@@ -47,10 +31,6 @@
   {
     "title": "LaTeX Parentheses",
     "href": "https://www.overleaf.com/learn/latex/Brackets_and_Parentheses"
-  },
-  {
-    "title": "LaTeX Math Basics",
-    "href": "https://www.andy-roberts.net/res/latex/textineqn.pdf"
   },
   {
     "title": "LaTeX Equation Shortcut",
@@ -68,22 +48,6 @@
   {
     "title": "LaTeX TikZ Package Examples",
     "href": "https://texample.net/tikz/examples/"
-  },
-  {
-    "title": "LaTeX TikZ Game Trees",
-    "href": "http://www.sfu.ca/~haiyunc/notes/Game_Trees_with_TikZ.pdf"
-  },
-  {
-    "title": "LaTeX TikZ UML Diagrams",
-    "href": "https://perso.ensta-paris.fr/~kielbasi/tikzuml/var/files/doc/tikzumlmanual.pdf"
-  },
-  {
-    "title": "LaTeX Dirtree Package Examples",
-    "href": "http://tug.ctan.org/macros/generic/dirtree/dirtree.pdf"
-  },
-  {
-    "title": "LaTeX FontAwesome Package",
-    "href": "http://mirrors.ibiblio.org/CTAN/fonts/fontawesome/doc/fontawesome.pdf"
   },
   {
     "title": "LaTex Alternative Guide",

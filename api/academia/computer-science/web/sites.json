@@ -85,10 +85,6 @@
     "title": "React useForm",
     "href": "https://react-hook-form.com/docs/useform"
   },
-  {
-    "title": "Vercel Deploy",
-    "href": "https://vercel.com/federog1977s-projects"
-  },
   { "title": "PM2", "href": "https://pm2.keymetrics.io/" },
   {
     "title": "Deploy Next.js App To Ubuntu with PM2",

@@ -1,8 +1,17 @@
-[
-  "Salewa Wildfire GTX",
-  "Scarpa Gecko",
-  "La Sportiva TX4 Evo GTX",
-  "Salewa Mountain Trainer Mid",
-  "Scarpa Manta Tech GTX",
-  "Scarpa Mont Blanc Pro GTX"
-]
+{
+  "fellRunners": ["Scarpa Ribelle Run"],
+  "approach": [
+    "Salewa Wildfire GTX",
+    "Salewa Mountain Trainer",
+    "Salewa Mountain Trainer 2",
+    "Scarpa Gecko",
+    "La Sportiva TX4 Evo GTX"
+  ],
+  "b1": [
+    "Salewa Mountain Trainer Mid",
+    "Salewa Mountain Trainer Mid 2",
+    "Scarpa Mescalito TRK GTX"
+  ],
+  "b2": ["Scarpa Manta Tech GTX"],
+  "b3": ["Scarpa Mont Blanc Pro GTX"]
+}

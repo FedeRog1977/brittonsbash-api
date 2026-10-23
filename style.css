@@ -252,7 +252,8 @@ button.aero {
   --button-foreground: oklch(15% 0.05 var(--hue));
 
   background-color: var(--button-background);
-  background: var(--bottom-glow),
+  background:
+    var(--bottom-glow),
     linear-gradient(to bottom, var(--bg-dark), var(--button-background));
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
   border: 1px solid var(--button-background);

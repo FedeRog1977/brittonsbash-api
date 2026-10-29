@@ -1,5 +1,11 @@
 {
-  "sources": ["Supernanny USA", "Teleshopping", "The Sims 3"],
+  "sources": [
+    "Supernanny USA",
+    "Man vs. Food",
+    "Diners, Drive-Ins and Dives",
+    "Teleshopping",
+    "The Sims 3"
+  ],
   "aesthetics": [],
   "associations": []
 }

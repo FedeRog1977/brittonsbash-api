@@ -106,12 +106,6 @@
     "White spirit"
   ],
 
-  "toBeAssigned": [
-    "Site work pants",
-    "Site work t-shirt",
-    "Site work gloves",
-    "All purpose buckets",
-    "Step ladders",
-    "Sawn timber"
-  ]
+  "accessibility": ["Step ladders", "All purpose buckets"],
+  "construction": ["Sawn timber"]
 }
